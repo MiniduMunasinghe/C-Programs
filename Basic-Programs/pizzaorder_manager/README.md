@@ -1,1 +1,1 @@
-
+his C program collects pizza orders, storing them in a file (outletOrders.dat). It calculates the total number of orders for each type of pizza (Veggie, Chicken, Seafood) and size (Regular, Large), displaying the results at the end.
