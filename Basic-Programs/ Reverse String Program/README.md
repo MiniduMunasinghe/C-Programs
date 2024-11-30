@@ -1,0 +1,1 @@
+This C program takes a single word as input and outputs the word reversed. It uses an array to store the input string and determines its length using the strlen function. A loop is employed to iterate through the string in reverse order, printing each character one by one. This program is a simple yet effective demonstration of string manipulation and iteration in C programming.
