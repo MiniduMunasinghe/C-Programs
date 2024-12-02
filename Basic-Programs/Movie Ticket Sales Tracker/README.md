@@ -1,0 +1,1 @@
+This C program is designed to manage and analyze movie ticket sales data. It reads ticket sales records from a file and calculates the total number of tickets sold for different movies and ticket types, providing a clear summary of sales data.
